@@ -1,0 +1,131 @@
+Product,Segment,Preferred_Model,MAE
+"Road-150 Red, 62",A,Ensemble,26380.44773497071
+"Mountain-200 Black, 38",A,Prophet_Enhanced,22101.915019365606
+"Road-150 Red, 52",A,Ensemble,23320.843548186625
+"Road-150 Red, 56",A,Ensemble,21243.48263025534
+"Mountain-200 Silver, 42",A,Prophet_Enhanced,19144.12803744208
+"Mountain-200 Silver, 38",A,Prophet_Enhanced,21644.914066093803
+"Road-150 Red, 48",A,Prophet_Enhanced,24882.671920010915
+"Mountain-200 Black, 46",A,Ensemble,20556.768918217505
+"Mountain-200 Black, 42",A,ETS_Enhanced,16603.2575620317
+"Mountain-200 Silver, 46",A,Ensemble,17939.87112062202
+"Sport-100 Helmet, Red",A,ETS_Enhanced,22910.879054217567
+"Sport-100 Helmet, Black",A,ETS_Enhanced,22894.88221029219
+"Road-150 Red, 44",A,Prophet_Enhanced,14706.740148302753
+"Sport-100 Helmet, Blue",A,ETS_Enhanced,20448.725212397676
+"Road-250 Black, 52",A,Ensemble,10961.051369584531
+"Road-250 Red, 58",A,Ensemble,9068.51644869709
+Fender Set - Mountain,A,ETS_Enhanced,14403.304096735954
+"Road-250 Black, 58",A,Ensemble,8926.248140110543
+"Road-350-W Yellow, 48",A,Ensemble,8348.027690672418
+"Road-250 Black, 44",A,Ensemble,7461.529355252645
+"Road-350-W Yellow, 42",A,Ensemble,7210.256093653367
+"Road-250 Red, 48",A,Ensemble,9800.262501632642
+Hydration Pack - 70 oz.,A,Ensemble,12240.551697889252
+"Road-250 Black, 48",A,Prophet_Enhanced,9167.708738079482
+HL Mountain Tire,A,ETS_Enhanced,10040.106553687776
+"Touring-1000 Yellow, 50",A,Ensemble,12221.399043714824
+"Road-350-W Yellow, 40",A,Prophet_Enhanced,5383.878731989046
+"Touring-1000 Blue, 46",A,Ensemble,10889.828406352171
+Water Bottle - 30 oz.,A,ETS_Enhanced,8845.410477212696
+"Road-550-W Yellow, 42",A,Ensemble,5207.402818108579
+"Touring-1000 Yellow, 60",A,Ensemble,10043.686613381667
+"Touring-1000 Yellow, 46",A,ETS_Enhanced,9167.347035937297
+"Road-550-W Yellow, 44",A,Ensemble,4375.910268170381
+"Women's Mountain Shorts, M",A,Ensemble,8852.766240380455
+"Touring-1000 Yellow, 54",A,ETS_Enhanced,8783.336290661446
+"Long-Sleeve Logo Jersey, L",A,Ensemble,7860.135202450122
+"Road-750 Black, 48",A,Ensemble,4533.08706921874
+"Road-550-W Yellow, 48",A,Ensemble,3127.217319030406
+"Women's Mountain Shorts, S",A,Ensemble,7533.001735503705
+"Road-350-W Yellow, 44",A,Prophet_Enhanced,4522.560882254792
+"Touring-1000 Blue, 60",A,Ensemble,8100.027954826498
+"Touring-1000 Blue, 54",A,Ensemble,8156.9502522616185
+ML Mountain Tire,A,ETS_Enhanced,6578.168543364798
+"Road-550-W Yellow, 40",A,Ensemble,4410.0365441326785
+"Road-550-W Yellow, 38",A,Ensemble,3323.7896501986856
+"Short-Sleeve Classic Jersey, S",A,ETS_Enhanced,6660.673764931485
+"Road-250 Red, 44",A,Prophet_Enhanced,5454.22488226219
+"Touring-1000 Blue, 50",A,Ensemble,8328.771185832136
+AWC Logo Cap,A,ETS_Enhanced,6462.597674858057
+"Long-Sleeve Logo Jersey, M",A,ETS_Enhanced,6494.129954745675
+Hitch Rack - 4-Bike,A,Ensemble,6491.643748220652
+"Long-Sleeve Logo Jersey, XL",B,ETS_Enhanced,6195.099716270741
+"Short-Sleeve Classic Jersey, L",B,Ensemble,6269.510041738266
+LL Road Tire,B,Ensemble,6282.3390014477945
+"Long-Sleeve Logo Jersey, S",B,Ensemble,6045.04927298798
+"Women's Mountain Shorts, L",B,Ensemble,6138.02926374012
+"Road-750 Black, 44",B,Ensemble,3391.0041981523373
+"Road-250 Red, 52",B,Prophet_Enhanced,4280.83041902349
+ML Road Tire,B,Ensemble,5497.375135269961
+Mountain Tire Tube,B,ETS_Enhanced,5053.799226677659
+HL Road Tire,B,Ensemble,5721.076801184175
+"Short-Sleeve Classic Jersey, XL",B,ETS_Enhanced,5449.5567919545665
+"Short-Sleeve Classic Jersey, M",B,Ensemble,5531.309273743107
+"Road-750 Black, 52",B,Ensemble,3099.470029424923
+"Mountain-100 Silver, 38",B,Ensemble,5437.43116133314
+All-Purpose Bike Stand,B,Ensemble,4529.608920300352
+Mountain Bottle Cage,B,ETS_Enhanced,3941.7412460353253
+"Mountain-400-W Silver, 38",B,Prophet_Enhanced,2785.6241908810875
+"Half-Finger Gloves, S",B,Ensemble,4047.108897131181
+Road Bottle Cage,B,ETS_Enhanced,4065.627080595358
+"Mountain-100 Black, 48",B,Ensemble,4118.386356389836
+"Mountain-400-W Silver, 46",B,Ensemble,3116.3584412518335
+"Touring-2000 Blue, 50",B,Ensemble,4001.954841262124
+"Classic Vest, S",B,Ensemble,3869.5945954847534
+"Half-Finger Gloves, L",B,ETS_Enhanced,3506.6864081528342
+LL Mountain Tire,B,Ensemble,3601.628623207343
+Patch Kit/8 Patches,B,ETS_Enhanced,3106.100823303488
+"Classic Vest, M",B,Ensemble,3425.7817361861444
+"Mountain-100 Black, 44",B,Ensemble,5217.720542699863
+"Classic Vest, L",B,Ensemble,3322.7012994969596
+Touring Tire,B,Ensemble,3497.3162051432664
+"Half-Finger Gloves, M",B,ETS_Enhanced,3162.333574426458
+"Mountain-400-W Silver, 42",B,Ensemble,2553.2317759944917
+Touring Tire Tube,B,ETS_Enhanced,2825.2377481604317
+"Touring-2000 Blue, 46",B,Ensemble,3529.544780013518
+"Road-750 Black, 58",B,Prophet_Enhanced,1774.8076406863397
+"Mountain-100 Black, 38",B,Ensemble,3826.7384667955384
+Road Tire Tube,B,ETS_Enhanced,2529.2215819923817
+"Mountain-100 Silver, 44",C,Ensemble,3361.873146165211
+"Touring-2000 Blue, 60",C,Ensemble,2931.141515206427
+"Mountain-100 Black, 42",C,SeasonalNaive,2941.6427500966715
+Bike Wash - Dissolver,C,Ensemble,2423.9600784892455
+"Mountain-100 Silver, 42",C,Ensemble,3408.1673013862055
+"Road-650 Red, 62",C,Ensemble,2097.88272272619
+"Road-650 Red, 48",C,Ensemble,1961.7648831357346
+"Mountain-400-W Silver, 40",C,Ensemble,1890.7278116003522
+"Touring-2000 Blue, 54",C,Ensemble,2576.323970901633
+"Mountain-100 Silver, 48",C,Ensemble,2045.6571505540633
+"Road-650 Black, 62",C,SeasonalNaive,1712.9213474615435
+"Road-650 Black, 58",C,Ensemble,1712.279301781788
+"Road-650 Red, 58",C,SeasonalNaive,1231.3276055371643
+"Touring-3000 Yellow, 44",C,Ensemble,1523.1452581863186
+"Mountain-500 Silver, 40",C,Ensemble,1433.9419181415851
+"Road-650 Black, 60",C,Ensemble,1174.733395026154
+"Road-650 Red, 60",C,Ensemble,1294.5189042483014
+"Mountain-500 Black, 44",C,Ensemble,1182.327973587342
+"Touring-3000 Yellow, 50",C,Ensemble,1378.8652412743238
+"Touring-3000 Yellow, 54",C,Ensemble,1308.5563744209999
+"Mountain-500 Black, 40",C,Ensemble,1218.1783601046948
+"Touring-3000 Blue, 58",C,Ensemble,1273.8594587003672
+"Road-650 Black, 52",C,Ensemble,1131.7382674513121
+"Road-650 Black, 48",C,SeasonalNaive,1285.4168689698101
+"Mountain-500 Silver, 42",C,Ensemble,1097.9038700004612
+"Touring-3000 Blue, 44",C,Ensemble,1107.6108545143823
+"Racing Socks, M",C,Ensemble,971.4693382627917
+"Road-650 Black, 44",C,Ensemble,1221.0648267246615
+"Touring-3000 Blue, 62",C,Ensemble,1061.2672606850356
+"Mountain-500 Black, 48",C,Ensemble,889.3317370406747
+"Racing Socks, L",C,Ensemble,848.5459343017159
+"Road-650 Red, 44",C,Ensemble,1233.1169008451861
+"Touring-3000 Yellow, 58",C,Ensemble,924.5861030888929
+"Touring-3000 Blue, 54",C,Ensemble,784.5890487457491
+"Touring-3000 Yellow, 62",C,Ensemble,811.6790209683828
+"Mountain-500 Silver, 52",C,Ensemble,646.1036994817222
+"Mountain-500 Black, 42",C,Ensemble,793.091525059893
+"Mountain-500 Silver, 44",C,Ensemble,735.5053259360127
+"Road-650 Red, 52",C,SeasonalNaive,701.2588552719069
+"Mountain-500 Silver, 48",C,SeasonalNaive,445.7272147242735
+"Touring-3000 Blue, 50",C,Ensemble,399.171064632419
+"Mountain-500 Black, 52",C,SeasonalNaive,297.06717855492366
